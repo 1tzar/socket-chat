@@ -1,2 +1,2 @@
-#  :sunrise_over_mountains:socket-chat
+#  	:snake:
 Socket chat on pure Python 3
